@@ -1,3 +1,16 @@
+# PROVAC — punto común de trabajo
+
+**Entrada de agentes:** [INSTRUCCION_COMUN.md](INSTRUCCION_COMUN.md).
+
+- [Estado actual](trabajo/estado.json): concentrado de conversaciones en pausa.
+- [Documentos de trabajo](documentos/indice.json): cuatro copias de texto recuperado de Arena con su origen en Drive.
+- [Acceso a las fuentes](docs/acceso-agentes.md) e [inventario Arena](docs/fuentes-arena.json).
+- [Formato de entrega](entregas/plantilla.json) para aportaciones de distintos agentes.
+
+Rama compartida de preparación: **work/integracion-etiquetas-20261008**. Estos archivos todavía no están integrados en main. Cada agente debe consultar esta rama expresamente. La coordinación es mediante instrucciones y entregas; no se han activado llamadas automáticas a modelos.
+
+---
+
 # PROVAC — integración y etiquetado
 
 La operación diaria se realiza en la hoja **PROVAC Integración y Etiquetas**. Los documentos originales permanecen en Drive. Esta primera integración contiene un inventario por ID de Drive, cuatro matrices existentes y el lote `conversations-003.json`.
@@ -53,4 +66,4 @@ La regeneración reemplaza únicamente la salida derivada indicada. No regenera 
 
 ## Verificación
 
-El primer lote fue reconciliado por IDs, autores, ramas, conteos y SHA256 del texto derivado; se comprobó búsqueda SQLite y reconstrucción íntegra de fragmentos. Los hash derivados no certifican firmas judiciales. El repositorio conserva soporte de importación; las conversaciones y documentos privados no se incorporan a su historial.
+El primer lote fue reconciliado por IDs, autores, ramas, conteos y SHA256 del texto derivado; se comprobó búsqueda SQLite y reconstrucción íntegra de fragmentos. Los hash derivados no certifican firmas judiciales. El repositorio conserva soporte de importación y copias de cuatro documentos de trabajo autorizadas por Luiso; las exportaciones completas de conversaciones no se incorporan a su historial.

@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "fecha_copia_local": "2026-10-07",
+  "origen_carpeta": "https://drive.google.com/drive/folders/1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+  "tipo_copia": "Texto legible recuperado por el conector; no archivo binario original ni validación criptográfica.",
+  "sincronizacion_automatica": false,
+  "documentos": [
+    {
+      "ruta": "documentos/guia_mapa_tematico.md",
+      "titulo": "guia_mapa_tematico.md",
+      "drive_id": "1A0nZM1RAANPSomd2_9IRAeGAIiEjAefw",
+      "url_origen": "https://drive.google.com/file/d/1A0nZM1RAANPSomd2_9IRAeGAIiEjAefw/view",
+      "mime_origen": "text/markdown",
+      "tipo": "DOCUMENTO_DE_TRABAJO",
+      "caracteres_texto": 7504
+    },
+    {
+      "ruta": "documentos/cuatro_ejes_y_representacion_infancia.md",
+      "titulo": "cuatro_ejes_y_representacion_infancia.md",
+      "drive_id": "1Vvg5JerZFvfQqnwZpASlHtwiFepeGR2B",
+      "url_origen": "https://drive.google.com/file/d/1Vvg5JerZFvfQqnwZpASlHtwiFepeGR2B/view",
+      "mime_origen": "text/markdown",
+      "tipo": "DOCUMENTO_DE_TRABAJO",
+      "caracteres_texto": 5336
+    },
+    {
+      "ruta": "documentos/evento_nulidad_19_24_marzo.md",
+      "titulo": "evento_nulidad_19_24_marzo.md",
+      "drive_id": "1j-ezKSV6L2N1v5PxnWiBv_T623MxX6i1",
+      "url_origen": "https://drive.google.com/file/d/1j-ezKSV6L2N1v5PxnWiBv_T623MxX6i1/view",
+      "mime_origen": "text/markdown",
+      "tipo": "DOCUMENTO_DE_TRABAJO",
+      "caracteres_texto": 7535
+    },
+    {
+      "ruta": "documentos/nodo_nulidad_federal_27jun_identificadores.md",
+      "titulo": "nodo_nulidad_federal_27jun_identificadores.md",
+      "drive_id": "1Tp5kbD8fuUcdSfxoYetE_vm7_QFeoOUT",
+      "url_origen": "https://drive.google.com/file/d/1Tp5kbD8fuUcdSfxoYetE_vm7_QFeoOUT/view",
+      "mime_origen": "text/markdown",
+      "tipo": "DOCUMENTO_DE_TRABAJO",
+      "caracteres_texto": 10063
+    }
+  ]
+}
