@@ -1,0 +1,696 @@
+{
+  "schema_version": "1.0",
+  "inspection_date_local": "2026-10-07",
+  "folder_url": "https://drive.google.com/drive/folders/1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+  "scope": "Carpeta raíz y cuatro subcarpetas directas; inventario de metadatos, no lectura íntegra del corpus.",
+  "element_count": 76,
+  "read_access_verified_for_current_chatgpt_session": true,
+  "write_access_verified": false,
+  "access_for_other_agents": "Cada agente debe verificar su propia conexión y la lectura de contenido.",
+  "files": [
+    {
+      "id": "1TdRYqb1oMmYyebA88X81KdhA4FH-s7P-",
+      "name": "nulidad_federal_pdf_extraido.txt",
+      "mime_type": "text/plain",
+      "size_bytes": 32683,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1TdRYqb1oMmYyebA88X81KdhA4FH-s7P-/view?usp=drivesdk"
+    },
+    {
+      "id": "1A09qrIEMXAc1gfabdo81d0jnyLMP1tsb",
+      "name": "nota_silogismos_mapa.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 2371,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1A09qrIEMXAc1gfabdo81d0jnyLMP1tsb/view?usp=drivesdk"
+    },
+    {
+      "id": "17JvQLX9gPgdStaj7ZRJjWo8iMZCIS0ty",
+      "name": "nota_comparativa_reporte_anomalias.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 2501,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/17JvQLX9gPgdStaj7ZRJjWo8iMZCIS0ty/view?usp=drivesdk"
+    },
+    {
+      "id": "1Tp5kbD8fuUcdSfxoYetE_vm7_QFeoOUT",
+      "name": "nodo_nulidad_federal_27jun_identificadores.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 10237,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1Tp5kbD8fuUcdSfxoYetE_vm7_QFeoOUT/view?usp=drivesdk"
+    },
+    {
+      "id": "10oqBiTY9rZHY_FWS5Q1eN5AU-IRVIyXR",
+      "name": "memorando_extraido.txt",
+      "mime_type": "text/plain",
+      "size_bytes": 596257,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/10oqBiTY9rZHY_FWS5Q1eN5AU-IRVIyXR/view?usp=drivesdk"
+    },
+    {
+      "id": "1jt_CtOBiJqy5BG2i4xtBCgstuvKB9GPW",
+      "name": "make_index.py",
+      "mime_type": "text/x-python",
+      "size_bytes": 10110,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1jt_CtOBiJqy5BG2i4xtBCgstuvKB9GPW/view?usp=drivesdk"
+    },
+    {
+      "id": "1NaycQXrMN6_SlzLpjoIHGmZDw7uhF18d",
+      "name": "integrar_tutela.py",
+      "mime_type": "text/x-python",
+      "size_bytes": 3711,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1NaycQXrMN6_SlzLpjoIHGmZDw7uhF18d/view?usp=drivesdk"
+    },
+    {
+      "id": "1Hw_K8uIRuGHWmYdMeu2-_RdqyqWUk_sT",
+      "name": "integrar_evento_nulidad.py",
+      "mime_type": "text/x-python",
+      "size_bytes": 4546,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1Hw_K8uIRuGHWmYdMeu2-_RdqyqWUk_sT/view?usp=drivesdk"
+    },
+    {
+      "id": "1gxJlRxO3YtpyuSrAQpj7yMT4UyjgBtns",
+      "name": "indice_conversaciones_legales.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 59791,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1gxJlRxO3YtpyuSrAQpj7yMT4UyjgBtns/view?usp=drivesdk"
+    },
+    {
+      "id": "1pYcezgMIHIn0d6r_yCybEvXvDh03Chb4",
+      "name": "indice_conversaciones_legales.csv",
+      "mime_type": "text/csv",
+      "size_bytes": 51768,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1pYcezgMIHIn0d6r_yCybEvXvDh03Chb4/view?usp=drivesdk"
+    },
+    {
+      "id": "1A0nZM1RAANPSomd2_9IRAeGAIiEjAefw",
+      "name": "guia_mapa_tematico.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 7644,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1A0nZM1RAANPSomd2_9IRAeGAIiEjAefw/view?usp=drivesdk"
+    },
+    {
+      "id": "1j-ezKSV6L2N1v5PxnWiBv_T623MxX6i1",
+      "name": "evento_nulidad_19_24_marzo.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 7676,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1j-ezKSV6L2N1v5PxnWiBv_T623MxX6i1/view?usp=drivesdk"
+    },
+    {
+      "id": "15jpZz_DQ9wJu3IGs4XCrc7dxZTy5f8sf",
+      "name": "dividir_conversaciones.html",
+      "mime_type": "text/html",
+      "size_bytes": 2481,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/15jpZz_DQ9wJu3IGs4XCrc7dxZTy5f8sf/view?usp=drivesdk"
+    },
+    {
+      "id": "1Vvg5JerZFvfQqnwZpASlHtwiFepeGR2B",
+      "name": "cuatro_ejes_y_representacion_infancia.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 5491,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1Vvg5JerZFvfQqnwZpASlHtwiFepeGR2B/view?usp=drivesdk"
+    },
+    {
+      "id": "1PrSnoFVPK9mu2z12uXOLWiEN04yNJVW1",
+      "name": "construir_mapa.py",
+      "mime_type": "text/x-python",
+      "size_bytes": 8761,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1PrSnoFVPK9mu2z12uXOLWiEN04yNJVW1/view?usp=drivesdk"
+    },
+    {
+      "id": "1wY4dnbeIuclVEvGdOF2-fvUtV3XZWWSq",
+      "name": "coincidencias_nulidad_trabajo.json",
+      "mime_type": "application/json",
+      "size_bytes": 7052148,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1wY4dnbeIuclVEvGdOF2-fvUtV3XZWWSq/view?usp=drivesdk"
+    },
+    {
+      "id": "1CCp-GMpQ5Y4LF7IENOZNct5b_iYUhFM2",
+      "name": "coincidencias_nulidad_resumen.txt",
+      "mime_type": "text/plain",
+      "size_bytes": 322977,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1CCp-GMpQ5Y4LF7IENOZNct5b_iYUhFM2/view?usp=drivesdk"
+    },
+    {
+      "id": "1foEh26-ngQQ2tRYhRLGWwWbebhfXrcov",
+      "name": "buscar_nulidad.py",
+      "mime_type": "text/x-python",
+      "size_bytes": 2207,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1foEh26-ngQQ2tRYhRLGWwWbebhfXrcov/view?usp=drivesdk"
+    },
+    {
+      "id": "1IPPf0Z7zt5MDaTySt0lR-YKH66WQJGR7",
+      "name": "PR001_linea_base_actos_reclamados.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 8555,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1IPPf0Z7zt5MDaTySt0lR-YKH66WQJGR7/view?usp=drivesdk"
+    },
+    {
+      "id": "1ec-hmTy6ruhJ80QtJm_LFqFqJYmp6aX5",
+      "name": "PR001_extraido_trabajo.txt",
+      "mime_type": "text/plain",
+      "size_bytes": 24258,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/file/d/1ec-hmTy6ruhJ80QtJm_LFqFqJYmp6aX5/view?usp=drivesdk"
+    },
+    {
+      "id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "name": "uploads",
+      "mime_type": "application/vnd.google-apps.folder",
+      "size_bytes": null,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/drive/folders/1i2jdT19vmhX4xd00K1eEEPZkcMid-57C"
+    },
+    {
+      "id": "13FmDAXVRABdxrNlYejpZSJGr0L9oiF-v",
+      "name": "Extraccion-Arena",
+      "mime_type": "application/vnd.google-apps.folder",
+      "size_bytes": null,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/drive/folders/13FmDAXVRABdxrNlYejpZSJGr0L9oiF-v"
+    },
+    {
+      "id": "1Z2uE-QYn1xRaRqVOlgLbLo6t519RrjfC",
+      "name": "App y Codigo Arena",
+      "mime_type": "application/vnd.google-apps.folder",
+      "size_bytes": null,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/drive/folders/1Z2uE-QYn1xRaRqVOlgLbLo6t519RrjfC"
+    },
+    {
+      "id": "1aCXPQY9_ZKCWkLsr94pQLZrnuHFKLlx2",
+      "name": "Arena",
+      "mime_type": "application/vnd.google-apps.folder",
+      "size_bytes": null,
+      "parent_id": "1ajHgp5vytmaTHC0_cUwo1xMUjj_Kn7RT",
+      "path": "/",
+      "url": "https://drive.google.com/drive/folders/1aCXPQY9_ZKCWkLsr94pQLZrnuHFKLlx2"
+    },
+    {
+      "id": "1dTbygLMtoRqu_NhRw8vbe2fHQXNPDBlQ",
+      "name": "user_settings.json",
+      "mime_type": "application/json",
+      "size_bytes": 4404,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1dTbygLMtoRqu_NhRw8vbe2fHQXNPDBlQ/view?usp=drivesdk"
+    },
+    {
+      "id": "1UnYEMVcFZDGQoFqGJ72NfI2C5q1SfKYn",
+      "name": "user_chatgpt.json",
+      "mime_type": "application/json",
+      "size_bytes": 606,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1UnYEMVcFZDGQoFqGJ72NfI2C5q1SfKYn/view?usp=drivesdk"
+    },
+    {
+      "id": "1MUyzupZcUUySzNQko7zLunRVcbSeTSem",
+      "name": "user.json",
+      "mime_type": "application/json",
+      "size_bytes": 408,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1MUyzupZcUUySzNQko7zLunRVcbSeTSem/view?usp=drivesdk"
+    },
+    {
+      "id": "1a5_4n_GnsSh6jfoL4FWt7mwWG3eIXgZb",
+      "name": "shared_conversations.json",
+      "mime_type": "application/json",
+      "size_bytes": 5055,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1a5_4n_GnsSh6jfoL4FWt7mwWG3eIXgZb/view?usp=drivesdk"
+    },
+    {
+      "id": "1OW0G4Jm9fhAZHjLoKwCXWIJ4nsj146_p",
+      "name": "prompt-normativo-neun.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 18236,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1OW0G4Jm9fhAZHjLoKwCXWIJ4nsj146_p/view?usp=drivesdk"
+    },
+    {
+      "id": "1vvQbiGHIBpR2NQIV6_-iNbw8-n4Okd7Q",
+      "name": "nodos_tutela_334_2026.json",
+      "mime_type": "application/json",
+      "size_bytes": 22492,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1vvQbiGHIBpR2NQIV6_-iNbw8-n4Okd7Q/view?usp=drivesdk"
+    },
+    {
+      "id": "1RqQxA9-eWEyHiud7hosqUb3siWCRiiOZ",
+      "name": "message_feedback.json",
+      "mime_type": "application/json",
+      "size_bytes": 265695,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1RqQxA9-eWEyHiud7hosqUb3siWCRiiOZ/view?usp=drivesdk"
+    },
+    {
+      "id": "1jkrekv1fbND2wYvfdFd26tKQ4BhZlt8H",
+      "name": "library_files.json",
+      "mime_type": "application/json",
+      "size_bytes": 589913,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1jkrekv1fbND2wYvfdFd26tKQ4BhZlt8H/view?usp=drivesdk"
+    },
+    {
+      "id": "13_gvb2a3LledDBAx7X--kBB-f3VQIGF0",
+      "name": "html_02650000386542110109800107550015.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 2547709,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/13_gvb2a3LledDBAx7X--kBB-f3VQIGF0/view?usp=drivesdk"
+    },
+    {
+      "id": "1CYPv5rKzrwM9eUZ3DWBN1ek7INr23bUs",
+      "name": "group_chats.json",
+      "mime_type": "application/json",
+      "size_bytes": 285721,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1CYPv5rKzrwM9eUZ3DWBN1ek7INr23bUs/view?usp=drivesdk"
+    },
+    {
+      "id": "15naBuxH63nAcQ1ArTcltRUKIHwZjzKRZ",
+      "name": "factura-metafora-neun.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 7449,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/15naBuxH63nAcQ1ArTcltRUKIHwZjzKRZ/view?usp=drivesdk"
+    },
+    {
+      "id": "18u6oj5FEm5KFLNwZVK91c4HRxkvthUts",
+      "name": "export_manifest.json",
+      "mime_type": "application/json",
+      "size_bytes": 187899,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/18u6oj5FEm5KFLNwZVK91c4HRxkvthUts/view?usp=drivesdk"
+    },
+    {
+      "id": "1PZJapvv_01i2_c_UArXKgte2whHN8Fss",
+      "name": "conversations-parte-003.json",
+      "mime_type": "application/json",
+      "size_bytes": 18045287,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1PZJapvv_01i2_c_UArXKgte2whHN8Fss/view?usp=drivesdk"
+    },
+    {
+      "id": "1y0PteyDRMNXnO0kgmoDikTsMsVq4xSDX",
+      "name": "conversations-parte-002.json",
+      "mime_type": "application/json",
+      "size_bytes": 18118745,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1y0PteyDRMNXnO0kgmoDikTsMsVq4xSDX/view?usp=drivesdk"
+    },
+    {
+      "id": "10IgXYBEiXzxnGfZGCGeWquqmOWNeZWb1",
+      "name": "conversations-parte-001.json",
+      "mime_type": "application/json",
+      "size_bytes": 17729971,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/10IgXYBEiXzxnGfZGCGeWquqmOWNeZWb1/view?usp=drivesdk"
+    },
+    {
+      "id": "1AeDFeGCxGeqKU-RTQd0G6_qax6PpQVtI",
+      "name": "conversations-003-parte-002.json",
+      "mime_type": "application/json",
+      "size_bytes": 1109366,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1AeDFeGCxGeqKU-RTQd0G6_qax6PpQVtI/view?usp=drivesdk"
+    },
+    {
+      "id": "1uSFCtpY2XfDTxpycN9FFXLUjgI3TeSuk",
+      "name": "conversations-003-parte-001.json",
+      "mime_type": "application/json",
+      "size_bytes": 18617089,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1uSFCtpY2XfDTxpycN9FFXLUjgI3TeSuk/view?usp=drivesdk"
+    },
+    {
+      "id": "1bcppCauLlN0lMvos76UV_LPDJktWEJN3",
+      "name": "conversations-002-parte-003.json",
+      "mime_type": "application/json",
+      "size_bytes": 4773359,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1bcppCauLlN0lMvos76UV_LPDJktWEJN3/view?usp=drivesdk"
+    },
+    {
+      "id": "12216i6QxaA1xGMa1a3BBx4ugBysW6fTz",
+      "name": "conversations-002-parte-002.json",
+      "mime_type": "application/json",
+      "size_bytes": 16198739,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/12216i6QxaA1xGMa1a3BBx4ugBysW6fTz/view?usp=drivesdk"
+    },
+    {
+      "id": "1V2QdZsrndjPfhDZKPkqEpUmG-URjWXmx",
+      "name": "conversations-002-parte-001.json",
+      "mime_type": "application/json",
+      "size_bytes": 18387068,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1V2QdZsrndjPfhDZKPkqEpUmG-URjWXmx/view?usp=drivesdk"
+    },
+    {
+      "id": "1Y463Itu80j6pxHCVV5mErjFaKCFfIkkK",
+      "name": "conversations-001.json",
+      "mime_type": "application/json",
+      "size_bytes": 23520386,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1Y463Itu80j6pxHCVV5mErjFaKCFfIkkK/view?usp=drivesdk"
+    },
+    {
+      "id": "1wqRF9n-8XVrpS4Z8MkhvfEzgS-YZrTL3",
+      "name": "conversations-000-parte-002.json",
+      "mime_type": "application/json",
+      "size_bytes": 6648003,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1wqRF9n-8XVrpS4Z8MkhvfEzgS-YZrTL3/view?usp=drivesdk"
+    },
+    {
+      "id": "1zKKja6FkA7mbN-VveF_kzPQdY3OmLqxg",
+      "name": "conversations-000-parte-001.json",
+      "mime_type": "application/json",
+      "size_bytes": 18544946,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1zKKja6FkA7mbN-VveF_kzPQdY3OmLqxg/view?usp=drivesdk"
+    },
+    {
+      "id": "1a9nNgcoz_CmCZ8-jzjDYIOLqMj_TKC98",
+      "name": "conversation_asset_file_names.json",
+      "mime_type": "application/json",
+      "size_bytes": 55612,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1a9nNgcoz_CmCZ8-jzjDYIOLqMj_TKC98/view?usp=drivesdk"
+    },
+    {
+      "id": "1ul610aVAzjIOdmjyqmyrv4pWzmNE6zhI",
+      "name": "benchmarking matem tico serio de la nomenclatura-neun-ageno.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 9842,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1ul610aVAzjIOdmjyqmyrv4pWzmNE6zhI/view?usp=drivesdk"
+    },
+    {
+      "id": "1mH4wpjYFAzL8sOh4brYdecRA6peAm66b",
+      "name": "ads.json",
+      "mime_type": "application/json",
+      "size_bytes": 2,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1mH4wpjYFAzL8sOh4brYdecRA6peAm66b/view?usp=drivesdk"
+    },
+    {
+      "id": "1qyVzX1FbanxrRQWcQXBQnDw9wYhhzvNS",
+      "name": "Vista 19 de Marzo Adicion, Contexto y Finalidad.docx.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 103253,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1qyVzX1FbanxrRQWcQXBQnDw9wYhhzvNS/view?usp=drivesdk"
+    },
+    {
+      "id": "1KP-ciTsqLyMx3UKBMsQn0_5ssL8EUZue",
+      "name": "SILOGISMO_JURIDICO_PREMISAMAYOR_PREMISA_MENOR_CONCLUSION_2.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 22992,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1KP-ciTsqLyMx3UKBMsQn0_5ssL8EUZue/view?usp=drivesdk"
+    },
+    {
+      "id": "16N4tJkSDl7noJVtfbBRniyeRBVSHfRtq",
+      "name": "S   Faltaba un   bloque t cnico-normativo separado.txt",
+      "mime_type": "text/plain",
+      "size_bytes": 19339,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/16N4tJkSDl7noJVtfbBRniyeRBVSHfRtq/view?usp=drivesdk"
+    },
+    {
+      "id": "1D8227l6ofHpdOjmuK7yZ5j-Fat2bIWFp",
+      "name": "Reporte_Anomalias_Corroborables_334_2026  9.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 2700635,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1D8227l6ofHpdOjmuK7yZ5j-Fat2bIWFp/view?usp=drivesdk"
+    },
+    {
+      "id": "1Ny4PbVRR4e2aIkDMOgJPd3PmCf6WoPTu",
+      "name": "Reporte_Anomalias_Corroborables_334_2026  9 (1).md",
+      "mime_type": "text/markdown",
+      "size_bytes": 2166079,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1Ny4PbVRR4e2aIkDMOgJPd3PmCf6WoPTu/view?usp=drivesdk"
+    },
+    {
+      "id": "173zcKOIAt_5FngDg7yeUP9yB68kmg3BL",
+      "name": "PR-001_0265-216-639128943355989151.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 119732,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/173zcKOIAt_5FngDg7yeUP9yB68kmg3BL/view?usp=drivesdk"
+    },
+    {
+      "id": "1ePjYQi-NO-3Isp1dtUvhfT53jgjIvpG7",
+      "name": "Nulidad NEUN Ageno Aviso de Cambio.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 30103,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1ePjYQi-NO-3Isp1dtUvhfT53jgjIvpG7/view?usp=drivesdk"
+    },
+    {
+      "id": "10rT3y6aVnRRVI9KrfNvBd5uYZ5bUdmUT",
+      "name": "Memorando de inteligencia jurídica.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 2851891,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/10rT3y6aVnRRVI9KrfNvBd5uYZ5bUdmUT/view?usp=drivesdk"
+    },
+    {
+      "id": "1vPgpvbXbQWZ5B883Ph2XmAECJECXAlrH",
+      "name": "MAPA_NODOS_EXTRAIDOS_2026-09-10.json",
+      "mime_type": "application/json",
+      "size_bytes": 56659,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1vPgpvbXbQWZ5B883Ph2XmAECJECXAlrH/view?usp=drivesdk"
+    },
+    {
+      "id": "15XJjQWcnvJAP0jD69OQ9co1A7W7yFDfs",
+      "name": "Incidente Nulidad 02650000386542110109800107550015.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 28102,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/15XJjQWcnvJAP0jD69OQ9co1A7W7yFDfs/view?usp=drivesdk"
+    },
+    {
+      "id": "1ohydj5_2t73ezQjgoIU2UwV2_Gc8nNvs",
+      "name": "Copia de Chat de WhatsApp con +52 668 832 2805.txt",
+      "mime_type": "text/plain",
+      "size_bytes": 3740,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1ohydj5_2t73ezQjgoIU2UwV2_Gc8nNvs/view?usp=drivesdk"
+    },
+    {
+      "id": "13eEljgK7u7AuwvIzXl2l-p4gw8LJW8UK",
+      "name": "27 junio nulidad Folio 16455181-2026 - AcusePromocion.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 124272,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/13eEljgK7u7AuwvIzXl2l-p4gw8LJW8UK/view?usp=drivesdk"
+    },
+    {
+      "id": "1V5Tsz7lgfD_91KmKycyq0gbd_UVFXvBQ",
+      "name": "20260874032100030 321.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 38298,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1V5Tsz7lgfD_91KmKycyq0gbd_UVFXvBQ/view?usp=drivesdk"
+    },
+    {
+      "id": "1EHbbSSiHbTh5XiYDwy-6_2oVwIvPCTRv",
+      "name": "13-Abril_Folio-de-Registro_12341272-2026.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 81325,
+      "parent_id": "1i2jdT19vmhX4xd00K1eEEPZkcMid-57C",
+      "path": "/uploads/",
+      "url": "https://drive.google.com/file/d/1EHbbSSiHbTh5XiYDwy-6_2oVwIvPCTRv/view?usp=drivesdk"
+    },
+    {
+      "id": "1eqGV_jfsikYc6esXmbjJfQNw_Gs_0cfw",
+      "name": "workspace-01a105dc-7290-79f5-825e-72465d1cc893.zip",
+      "mime_type": "application/zip",
+      "size_bytes": 182333065,
+      "parent_id": "13FmDAXVRABdxrNlYejpZSJGr0L9oiF-v",
+      "path": "/Extraccion-Arena/",
+      "url": "https://drive.google.com/file/d/1eqGV_jfsikYc6esXmbjJfQNw_Gs_0cfw/view?usp=drivesdk"
+    },
+    {
+      "id": "1kIaZLYPuuGeU1r26A0NEjZ3tYVXJNbGT",
+      "name": "nulidad_federal_pdf_extraido.yaml",
+      "mime_type": "application/octet-stream",
+      "size_bytes": 32683,
+      "parent_id": "13FmDAXVRABdxrNlYejpZSJGr0L9oiF-v",
+      "path": "/Extraccion-Arena/",
+      "url": "https://drive.google.com/file/d/1kIaZLYPuuGeU1r26A0NEjZ3tYVXJNbGT/view?usp=drivesdk"
+    },
+    {
+      "id": "1sfCbyA2SOKDoaW0MqDYo5e03SnnhRu0P",
+      "name": "nulidad_federal_pdf_extraido.txt",
+      "mime_type": "text/plain",
+      "size_bytes": 32683,
+      "parent_id": "13FmDAXVRABdxrNlYejpZSJGr0L9oiF-v",
+      "path": "/Extraccion-Arena/",
+      "url": "https://drive.google.com/file/d/1sfCbyA2SOKDoaW0MqDYo5e03SnnhRu0P/view?usp=drivesdk"
+    },
+    {
+      "id": "1PF4kj_DkI3eVPiVD6OsDx9IglMruiLm6",
+      "name": "indice_conversaciones_legales.csv",
+      "mime_type": "text/csv",
+      "size_bytes": 51765,
+      "parent_id": "13FmDAXVRABdxrNlYejpZSJGr0L9oiF-v",
+      "path": "/Extraccion-Arena/",
+      "url": "https://drive.google.com/file/d/1PF4kj_DkI3eVPiVD6OsDx9IglMruiLm6/view?usp=drivesdk"
+    },
+    {
+      "id": "1BmE5S9yFtSuNamvNY7uuoJxORpJIEgU1",
+      "name": "indice_conversaciones_legales-Actualizado.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 59219,
+      "parent_id": "13FmDAXVRABdxrNlYejpZSJGr0L9oiF-v",
+      "path": "/Extraccion-Arena/",
+      "url": "https://drive.google.com/file/d/1BmE5S9yFtSuNamvNY7uuoJxORpJIEgU1/view?usp=drivesdk"
+    },
+    {
+      "id": "1tWTNKaP37yUD1vkUhjam2nhCcHPAt2C_",
+      "name": "indice_conversaciones_legales (1).csv",
+      "mime_type": "text/csv",
+      "size_bytes": 51765,
+      "parent_id": "13FmDAXVRABdxrNlYejpZSJGr0L9oiF-v",
+      "path": "/Extraccion-Arena/",
+      "url": "https://drive.google.com/file/d/1tWTNKaP37yUD1vkUhjam2nhCcHPAt2C_/view?usp=drivesdk"
+    },
+    {
+      "id": "1Pv32Q5HZCF6dND070khNwq7H4KmceeRb",
+      "name": "guia_mapa_tematico.md",
+      "mime_type": "text/markdown",
+      "size_bytes": 6069,
+      "parent_id": "13FmDAXVRABdxrNlYejpZSJGr0L9oiF-v",
+      "path": "/Extraccion-Arena/",
+      "url": "https://drive.google.com/file/d/1Pv32Q5HZCF6dND070khNwq7H4KmceeRb/view?usp=drivesdk"
+    },
+    {
+      "id": "116tlpJusfwqdTC5TNGPJocm2Rhsw578i",
+      "name": "guia_mapa_tematico.html",
+      "mime_type": "text/html",
+      "size_bytes": 6667,
+      "parent_id": "13FmDAXVRABdxrNlYejpZSJGr0L9oiF-v",
+      "path": "/Extraccion-Arena/",
+      "url": "https://drive.google.com/file/d/116tlpJusfwqdTC5TNGPJocm2Rhsw578i/view?usp=drivesdk"
+    },
+    {
+      "id": "1H7FQ7md3AIuEYDkXAQPGhKe0ESE5fWTa",
+      "name": "make_index.py",
+      "mime_type": "text/x-python",
+      "size_bytes": 9850,
+      "parent_id": "1Z2uE-QYn1xRaRqVOlgLbLo6t519RrjfC",
+      "path": "/App y Codigo Arena/",
+      "url": "https://drive.google.com/file/d/1H7FQ7md3AIuEYDkXAQPGhKe0ESE5fWTa/view?usp=drivesdk"
+    },
+    {
+      "id": "10S6-vKku2UWGytY2hoHl5HWU3om16jlx",
+      "name": "integrar_evento_nulidad.py",
+      "mime_type": "text/x-python",
+      "size_bytes": 4546,
+      "parent_id": "1Z2uE-QYn1xRaRqVOlgLbLo6t519RrjfC",
+      "path": "/App y Codigo Arena/",
+      "url": "https://drive.google.com/file/d/10S6-vKku2UWGytY2hoHl5HWU3om16jlx/view?usp=drivesdk"
+    },
+    {
+      "id": "1HeRnXswGyNJifEvzYSGQrFt4Syk6ydWz",
+      "name": "mapa_tematico_nodos_conversaciones.xlsx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 82138,
+      "parent_id": "1aCXPQY9_ZKCWkLsr94pQLZrnuHFKLlx2",
+      "path": "/Arena/",
+      "url": "https://docs.google.com/spreadsheets/d/1HeRnXswGyNJifEvzYSGQrFt4Syk6ydWz/edit?usp=drivesdk&ouid=102471103538257299239&rtpof=true&sd=true"
+    },
+    {
+      "id": "1ki8YD3ruasNSPFZXCh3uXeNGfwaWjmfRDXrBtym1UDU",
+      "name": "indice_conversaciones_legales",
+      "mime_type": "application/vnd.google-apps.spreadsheet",
+      "size_bytes": 14958,
+      "parent_id": "1aCXPQY9_ZKCWkLsr94pQLZrnuHFKLlx2",
+      "path": "/Arena/",
+      "url": "https://docs.google.com/spreadsheets/d/1ki8YD3ruasNSPFZXCh3uXeNGfwaWjmfRDXrBtym1UDU/edit?usp=drivesdk"
+    }
+  ]
+}
